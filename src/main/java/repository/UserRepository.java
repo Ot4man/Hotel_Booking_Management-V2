@@ -16,3 +16,4 @@ public interface UserRepository {
 
     void delete(UUID id);
 }
+
